@@ -1,0 +1,12 @@
+Comandos Git
+- cd: abrir pasta
+- cd/: abrir pasta específica
+-cd.. : voltar
+- mkdir: criar nova pasta
+- del ou rmdir: excluir pasta
+- cmd: abrir pasta no prompt de comando
+- dir: abrir pastas que eu já tenho
+- cls: limpar o terminal
+
+O que é um commit
+Significa realizar determinar mudança e em seguida a salvar e deixar permanente/efetivar as alterações.
