@@ -1,0 +1,23 @@
+Baseado em 4 pilares
+-decomposição
+-reconhecimento
+-abstração
+-design de algoritimos
+*Dividir um problema complexo em subproblemas
+
+Técnica linear - não tem escolhas
+Técnica estruturada - tem escolhas
+Técnica modular - várias opções/regras para cada ação
+
+Função do computador - se divide em dados e instrução
+
+Variável - identificar/guardar um dado
+- Uma variavel não pode ser nomeada com palavras reservadas e nem começar com números
+
+Estrutura condicional - implica em uma condição/hipótese
+Simples, composta e encadeada
+
+Matriz - tabela organizada em linhas e colunas no formato m (nº de linhas) x n (nº de colunas)
+Funções ou sub-rotinas - são blocos de instruções que realizam tarefas específicas
+
+Linguagem de programação - método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte
